@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-style: Robotica;
+    font-weight:italic;
+    font-weight:bold;
+}
+h2{
+    text-align:center;
+    font-weight:bold;
+}
+hr {
+    width:200px;
+    border:5px solid red;
+}
+button {
+    border: none;
+           background-color: sky;
+           border-radius: 2px;
+           padding: 2px;
+           color: #fff;
+           font-weight: bold;
+           font-size: 16px;
+}
+td{
+    text-align:center;
+}
+#font{
+    font-family:Times New Roman;
+}
